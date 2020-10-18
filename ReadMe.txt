@@ -34,6 +34,9 @@ Run the "COVID AGENT.exe" file.
 
 To open in developer mode and compile, Open the COVID AGENT folder in Unity for mac.
 
+To edit Avatats:
+
+Download files from https://drive.google.com/drive/folders/1aeyPSTSMAqb1D5mNdzRatkrvwe4og9FT?usp=sharing and place them in COVID19-Speech-Agent/COVID\ AGENT/Assets/Avatar. 
 
 
 
